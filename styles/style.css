@@ -232,7 +232,7 @@
 .card__like-button:focus {
   outline: none;
   box-shadow: 2px 2px 0 var(--accent-color);
-  transition: all 0.3s;
+  transition: box-shadow 0.3s;
 }
 
 .button__text {
