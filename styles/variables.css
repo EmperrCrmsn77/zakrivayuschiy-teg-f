@@ -12,7 +12,7 @@
     --background-color: #fff;
     --accent-color: #000;
     --label-stroke-color: var(--background-color);
-    --button-text-color: var(--background-color);
+    /* --button-text-color: var(--background-color); */
     --heart-contour-color: var(--accent-color);
     --heart-color: #FF0000;
 }

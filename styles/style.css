@@ -100,7 +100,7 @@
 .theme-menu__button:disabled {
   opacity: 60%;
   pointer-events: none;
-  transition: all 0.3s;
+  transition: opacity 0.3s;
 }
 
 .theme-menu__button:disabled::before {
@@ -197,7 +197,7 @@
   outline: none;
 }
 
-.card__icon-button:focus-visible  .icon-like{
+.card__icon-button:focus-visible  .icon-like {
   outline: 2px solid var(--accent-color);
   outline-offset: 5px;
 }
@@ -239,7 +239,7 @@
   font-family: var(--accent-font);
   mix-blend-mode: difference;
   color: var(--button-text-color);
-  transition: all .3s ease 
+  transition: color .3s ease;
 }
 
 /* --------------------------------footer----------------------------------- */
@@ -289,7 +289,7 @@
 .footer__button:focus {
   outline: none;
   box-shadow: 2px 2px 0 var(--accent-color);
-  transition: all 0.3s;
+  transition: box-shadow 0.3s;
 }
 
 .dialog {
