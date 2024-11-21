@@ -193,10 +193,6 @@
   display: block;
 }
 
-.loke-icon:hover {
-  
-}
-
 .card__icon-button:focus {
   outline: none;
 }
@@ -271,10 +267,6 @@
   font-size: 14px;
   mix-blend-mode: difference;
   color: var(--button-text-color);
-}
-
-.floppy_svg {
-
 }
 
 .footer__button:before {
