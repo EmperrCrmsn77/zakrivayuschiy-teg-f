@@ -16,6 +16,7 @@
     --label-stroke-color: var(--background-color);
     --button-text-color: var(--background-color);
     --heart-contour-color: var(--accent-color);
+    --floppy-color: var(--background-color);
 }
 
 :root.theme-dark {
@@ -30,6 +31,7 @@
     --label-stroke-color: #00CC14;
     --button-text-color: #00CC14;
     --heart-contour-color:var(--accent-color);
+    --floppy-color: var(--accent-color);
 }
 
 
@@ -44,7 +46,7 @@
     --title-font-weight: 785;
     --text-font-weight: 465;
     --label-stroke-color: #00CC14;
-    /* --button-text-color: #00CC14; */
     --heart-contour-color:var(--accent-color);
+    --floppy-color: var(--accent-color);
     }
 }
